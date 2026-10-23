@@ -5,6 +5,11 @@
 
 # REA: Reverse Engineer Anything
 
+> **Jeevan's fork:** maintained at [jeevan1985/rea](https://github.com/jeevan1985/rea),
+> based on [morluto/rea](https://github.com/morluto/rea). See the
+> [fork workflow](docs/fork-workflow.md) for publishing changes here and the
+> [Windows and WSL setup guide](docs/windows-wsl-setup.md) for using both hosts.
+
 ### One MCP for reverse engineering across binaries, applications, and runtime behavior.
 
 **See a feature you like. Understand how it works, down to the binary level.**

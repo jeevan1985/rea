@@ -5,6 +5,11 @@
 
 # REA: Reverse Engineer Anything
 
+> **Jeevan's fork:** maintained at [jeevan1985/rea](https://github.com/jeevan1985/rea),
+> based on [morluto/rea](https://github.com/morluto/rea). See the
+> [fork workflow](../fork-workflow.md) for publishing changes here and the
+> [Windows and WSL setup guide](../windows-wsl-setup.md) for using both hosts.
+
 ### Un unico MCP per l'ingegneria inversa su binari, applicazioni e comportamento a runtime.
 
 **Vedi una funzionalità che ti piace. Capisci come funziona, fino al livello binario.**

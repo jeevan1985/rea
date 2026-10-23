@@ -5,6 +5,11 @@
 
 # REA：逆向一切
 
+> **Jeevan's fork:** maintained at [jeevan1985/rea](https://github.com/jeevan1985/rea),
+> based on [morluto/rea](https://github.com/morluto/rea). See the
+> [fork workflow](../fork-workflow.md) for publishing changes here and the
+> [Windows and WSL setup guide](../windows-wsl-setup.md) for using both hosts.
+
 ### 通过一个 MCP 服务，逆向分析二进制文件、应用程序和运行时行为。
 
 **看到喜欢的功能，弄清它的工作原理，深入到二进制层面。**

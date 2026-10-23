@@ -5,6 +5,11 @@
 
 # REA: Реверс-інжиніринг будь-чого
 
+> **Jeevan's fork:** maintained at [jeevan1985/rea](https://github.com/jeevan1985/rea),
+> based on [morluto/rea](https://github.com/morluto/rea). See the
+> [fork workflow](../fork-workflow.md) for publishing changes here and the
+> [Windows and WSL setup guide](../windows-wsl-setup.md) for using both hosts.
+
 ### Один MCP для реверс-інжинірингу бінарних файлів, застосунків і поведінки під час виконання.
 
 **Побачили цікаву функцію? Зрозумійте, як вона працює, аж до рівня двійкового коду.**

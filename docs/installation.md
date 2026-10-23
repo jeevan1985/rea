@@ -3,6 +3,9 @@
 Run REA, connect your selected agents, and check the tools needed for your task.
 Setup previews configuration changes and asks for approval before applying them.
 
+For a Windows workstation with complementary Linux tooling, see the
+[Windows and WSL setup guide](windows-wsl-setup.md).
+
 | Task                              | Section                                                                                             |
 | --------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Connect an agent                  | [Start setup](#start-setup), then [review changes](#review-setup-changes)                           |

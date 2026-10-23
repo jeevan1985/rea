@@ -5,6 +5,11 @@
 
 # REA：あらゆるものをリバースエンジニアリング
 
+> **Jeevan's fork:** maintained at [jeevan1985/rea](https://github.com/jeevan1985/rea),
+> based on [morluto/rea](https://github.com/morluto/rea). See the
+> [fork workflow](../fork-workflow.md) for publishing changes here and the
+> [Windows and WSL setup guide](../windows-wsl-setup.md) for using both hosts.
+
 ### バイナリ、アプリケーション、実行時の動作を、ひとつの MCP でリバースエンジニアリング。
 
 **気に入った機能を見つけたら、その仕組みをバイナリのレベルまで理解する。**

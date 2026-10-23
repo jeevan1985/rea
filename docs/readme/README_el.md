@@ -4,6 +4,11 @@
 
 # REA: Reverse Engineer Anything
 
+> **Jeevan's fork:** maintained at [jeevan1985/rea](https://github.com/jeevan1985/rea),
+> based on [morluto/rea](https://github.com/morluto/rea). See the
+> [fork workflow](../fork-workflow.md) for publishing changes here and the
+> [Windows and WSL setup guide](../windows-wsl-setup.md) for using both hosts.
+
 ### Ένα MCP για αντίστροφη μηχανική δυαδικών αρχείων, εφαρμογών και της συμπεριφοράς τους κατά την εκτέλεση.
 
 **Βρήκες μια λειτουργία που σου αρέσει; Μάθε πώς λειτουργεί, μέχρι το επίπεδο του δυαδικού κώδικα.**
