@@ -14,7 +14,7 @@ cd rea
 git remote add upstream https://github.com/morluto/rea.git
 git config remote.upstream.pushurl DISABLED
 git config remote.pushDefault origin
-git config push.default simple
+git config push.default current
 git config pull.rebase false
 git config pull.ff true
 git config branch.main.rebase false
